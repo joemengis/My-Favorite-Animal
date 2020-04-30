@@ -1,0 +1,43 @@
+.header {
+    font-size: xx-large;
+    background-color: deeppink;
+    text-align: center;
+    line-height: 300px;
+    padding: 0;
+    font-family: cursive;
+    font-size: 100px;
+    color: ghostwhite;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    background-color: goldenrod;
+    padding: 0;
+    height: 199px;
+    
+}
+
+#bio-pic {
+    height: 199px;
+    width: 200px;
+    opacity: 100%;
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 50px;
+    color: deeppink;
+}
+
+#p1{
+    font-size: 25px;
+    color: black;
+    font-weight: lighter;
+    font-family: cursive;
+}
+
+
+
